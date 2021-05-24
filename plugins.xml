@@ -1,16 +1,16 @@
 <?xml version = '1.0' encoding = 'UTF-8'?>
 <plugins>
- <pyqgis_plugin name="Multidimensional" version="0.1.4">
-  <description>Multidimensional Plugin</description>
-  <about>Multidimensional-0.1.0</about>
-  <version>0.1.0</version>
-  <qgis_minimum_version>3.4</qgis_minimum_version>
-  <homepage>https://github.com/kict-multidimensional/Multidimensional_v1</homepage>
-  <file_name>multidimensional.zip</file_name>
+ <pyqgis_plugin name="K-FRM Assessment Tool (General user)" version="0.1">
+  <description>K-FRM Tool plugin : General version</description>
+  <about>General version</about>
+  <version>0.1</version>
+  <qgis_minimum_version>3.0</qgis_minimum_version>
+  <homepage>https://github.com/floodmodel/K-FRM</homepage>
+  <file_name>kfrm_tool_general.zip</file_name>
   <author_name>KICT, Hermesys</author_name>
-  <download_url>https://github.com/kict-multidimensional/Multidimensional_v1/raw/master/multidimensional-v0.1.0.zip</download_url>
+  <download_url>https://github.com/floodmodel/K-FRM/raw/master/multidimensional-v0.1.0.zip</download_url>
   <experimental>True</experimental>
   <deprecated>False</deprecated>
-  <tags>Multidimensional</tags>
+  <tags>K-FRM</tags>
  </pyqgis_plugin>
 </plugins>
