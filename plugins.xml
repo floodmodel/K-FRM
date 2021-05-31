@@ -14,7 +14,7 @@
   <tags>K-FRM</tags>
  </pyqgis_plugin>
 
- <--
+ <!--
  <pyqgis_plugin name="K-FRM Assessment Tool (Professional user)" version="0.1">
   <description>K-FRM Tool plugin : Professional version</description>
   <about>Professional version</about>
