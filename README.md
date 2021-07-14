@@ -1,16 +1,7 @@
-# TEST 123
-## heading1 
-1. aa 
-2. bb
-## heading2
-* aa
-### heading3
-* aa
-#### heading4
-* aa
-##### heading5
-* aa
-###### heading6
-* bb 
-* bb 
-* bb
+# 버전 관리 이력
+## 2021.05
+1. 사용자 버전 분리
+* 전문가용
+  - 관리자 비밀번호 필요
+* 일반 사용자용
+  - KCDMS 침수구역도에 맞는 행정구역 자료 다운로드 필요
