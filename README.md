@@ -1,12 +1,8 @@
-# 버전 이력 관리 
-## 2021.11
-<b>사용자 버전 통합 중</b> 
+# K-FRM (Korea-Flood Risk Model)
+모델에 대한 설명과 다운로드 관련 가이드는 wiki 페이지에서 참고하시길 바랍니다.
+https://github.com/floodmodel/K-FRM/wiki
 
-## 2021.05
-<b>사용자 버전 분리</b>
-* 전문가용
-  - 관리자 비밀번호 필요
-* 일반 사용자용
-  - KCDMS 침수구역도에 맞는 행정구역 자료 다운로드 필요
-
-### test
+# Update history
+2021.10.07. (General, Professional version) Inventory-Building 메뉴의 UI 개선
+2021.10.18. (Professional version) 차량 인벤토리 업데이트 및 차량 가치 계산 기능 추가
+2021.11.24. General, Professional 버전 통합
