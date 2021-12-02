@@ -1,6 +1,8 @@
 # K-FRM (Korean-Flood Risk assessment Model)
+The model indroduction and the download guidelines are wiki page at https://github.com/floodmodel/K-FRM/wiki/K_FRM <br/>
+* Inventory Folder
 
-The model indroduction and the download guidelines are wiki page at https://github.com/floodmodel/K-FRM/wiki/K_FRM
+
 <br/><br/>
 
 # Update history
