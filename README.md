@@ -1,5 +1,5 @@
 # K-FRM (Korean-Flood Risk assessment Model)
-The model indroduction and the download guidelines are wiki page at https://github.com/floodmodel/K-FRM/wiki/K_FRM <br/>
+The model indroduction and the download guidelines are wiki page at https://github.com/floodmodel/K-FRM/wiki <br/>
 * build_inventory 폴더에는 K-FRM에서 사용되는 Inventory DB 구축용 프로그램이 있습니다.
 * k-frm 폴더는 K-FRM에 대한 QGIS plug-in을 download 받을 수 있습니다.  (최신날짜의 zip을 사용하세요)
 
