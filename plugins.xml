@@ -1,32 +1,31 @@
 <?xml version = '1.0' encoding = 'UTF-8'?>
 <plugins>
- <pyqgis_plugin name="K-FRM Assessment Tool (General user)" version="0.1">
-  <description>K-FRM Tool plugin : General version</description>
-  <about>General version</about>
+ <pyqgis_plugin name="K-FRM Assessment Tool" version="0.1">
+  <description>K-FRM Tool plugin</description>
+  <about>K-FRM Tool</about>
   <version>0.1</version>
   <qgis_minimum_version>3.0</qgis_minimum_version>
   <homepage>https://github.com/floodmodel/K-FRM</homepage>
-  <file_name>kfrm_tool_general.zip</file_name>
+  <file_name>kfrm_tool.zip</file_name>
   <author_name>KICT, Hermesys</author_name>
-  <download_url>https://github.com/floodmodel/K-FRM/raw/main/k-frm_general/kfrm_tool_general_20210528.zip</download_url>
+  <download_url>https://github.com/floodmodel/K-FRM/raw/main/k-frm/kfrm_tool_20211124.zip</download_url>
   <experimental>True</experimental>
   <deprecated>False</deprecated>
   <tags>K-FRM</tags>
  </pyqgis_plugin>
 
- <!--
- <pyqgis_plugin name="K-FRM Assessment Tool (Professional user)" version="0.1">
-  <description>K-FRM Tool plugin : Professional version</description>
-  <about>Professional version</about>
+ <pyqgis_plugin name="Build inventory tool" version="0.1">
+  <description>Build inventory tool</description>
+  <about></about>
   <version>0.1</version>
   <qgis_minimum_version>3.0</qgis_minimum_version>
   <homepage>https://github.com/floodmodel/K-FRM</homepage>
-  <file_name>kfrm_tool_pro.zip</file_name>
+  <file_name>build_inventory_tool.zip</file_name>
   <author_name>KICT, Hermesys</author_name>
-  <download_url>https://github.com/floodmodel/K-FRM/raw/main/k-frm_pro/kfrm_tool_pro_20210531.zip</download_url>
+  <download_url>https://github.com/floodmodel/K-FRM/raw/main/build_inventory/build_inventory_tool_20210825.zip</download_url>
   <experimental>True</experimental>
   <deprecated>False</deprecated>
-  <tags>K-FRM</tags>
+  <tags>Build inventory tool</tags>
  </pyqgis_plugin>
- -->
+
 </plugins>
