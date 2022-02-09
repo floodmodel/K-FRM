@@ -1,14 +1,14 @@
 <?xml version = '1.0' encoding = 'UTF-8'?>
 <plugins>
- <pyqgis_plugin name="K-FRM Assessment Tool" version="0.1">
+ <pyqgis_plugin name="K-FRM Assessment Tool" version="0.2">
   <description>K-FRM Tool plugin</description>
   <about>K-FRM Tool</about>
-  <version>0.1</version>
+  <version>0.2</version>
   <qgis_minimum_version>3.0</qgis_minimum_version>
   <homepage>https://github.com/floodmodel/K-FRM</homepage>
   <file_name>kfrm_tool.zip</file_name>
   <author_name>KICT, Hermesys</author_name>
-  <download_url>https://github.com/floodmodel/K-FRM/raw/main/k-frm/kfrm_tool_20211124.zip</download_url>
+  <download_url>https://github.com/floodmodel/K-FRM/raw/main/k-frm/kfrm_tool_20220209.zip</download_url>
   <experimental>True</experimental>
   <deprecated>False</deprecated>
   <tags>K-FRM</tags>
