@@ -3,7 +3,7 @@
 * K-FRM에 대한 자세한 내용은 위 [**Wiki 메뉴**](https://github.com/floodmodel/K-FRM/wiki) 및 [**동영상**](https://www.youtube.com/watch?v=PzIEDj--56g)에 설명되어 있습니다.
 * [**build_inventory 폴더**](https://github.com/floodmodel/K-FRM/tree/main/build_inventory)에는 K-FRM에서 사용되는 [**Inventory DB 구축용 프로그램**](https://github.com/floodmodel/K-CDMS/wiki/Inventory-Builder)이 있습니다.
 * K-FRM에서 사용되는 Inventory Data는 [**K-CDMS**](https://github.com/floodmodel/K-CDMS)에서 download 받을 수 있습니다.
-* k-frm 폴더는 K-FRM에 대한 QGIS plug-in을 download 받을 수 있습니다.  (최신날짜의 zip을 사용하세요) 
+* [**k-frm 폴더**](https://github.com/floodmodel/K-FRM/tree/main/k-frm)는 K-FRM에 대한 QGIS plug-in을 download 받을 수 있습니다.  (최신날짜의 zip을 사용하세요) 
 * QGIS3.10에서 운영되도록 개발되었습니다.
 
 
