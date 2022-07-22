@@ -1,6 +1,6 @@
 <?xml version = '1.0' encoding = 'UTF-8'?>
 <plugins>
- <pyqgis_plugin name="K-FRM Assessment Tool" version="0.5">
+ <pyqgis_plugin name="K-FRM Tool" version="0.5">
   <description>K-FRM Tool plugin</description>
   <about>K-FRM Tool</about>
   <version>0.5</version>
