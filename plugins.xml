@@ -11,7 +11,7 @@
   <download_url>https://github.com/floodmodel/K-FRM/raw/main/k-frm/kfrm_tool_20220929.zip</download_url>
   <experimental>False</experimental>
   <deprecated>False</deprecated>
-  <tags>K-FRM</tags>
+  <tags>K-FRM, flood damage, flood loss, inundation, inventory</tags>
  </pyqgis_plugin>
 
  <pyqgis_plugin name="Build inventory tool" version="0.1">
