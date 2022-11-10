@@ -21,3 +21,4 @@
 2022.08.19. 건물 인벤토리 개별 피해액 부분에 Bdtyp 추가  <br/>
 2022.08.26. UI 개선 <br/>
 2022.09.07. UI 개선, summary result 오류 수정 및 building 주거/비주거 구분 <br/>
+2022.11.09. Metadata에 표시되는 ICON 크기 조정 <br/>
