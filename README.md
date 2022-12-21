@@ -22,3 +22,4 @@
 2022.08.26. UI 개선 <br/>
 2022.09.07. UI 개선, summary result 오류 수정 및 building 주거/비주거 구분 <br/>
 2022.11.09. Metadata에 표시되는 ICON 크기 조정 <br/>
+2022.12.22. Public sector loss UI 및 기능 변경, Annualized loss 기능 추가 <br/>
