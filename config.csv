@@ -1,4 +1,4 @@
 Inventory_Population_Damageunit_lifeloss,0.1
 Inventory_population_Damageunit_victimloss,0.1
 Inventory_Agriculture_Valuation_parameters_unitcost(farmland)_damagecostperunit,0.1
-Loss_publicSectorLoss_infrastructuredamagecoefficient,0.1
+Loss_publicSectorLoss_infrastructuredamagecoefficient,0.865
