@@ -3,7 +3,7 @@
 * K-FRM에 대한 자세한 내용은 위 [**Wiki 메뉴**](https://github.com/floodmodel/K-FRM/wiki) 및 [**동영상**](https://www.youtube.com/watch?v=PzIEDj--56g)에 설명되어 있습니다.
 * [**build_inventory 폴더**](https://github.com/floodmodel/K-FRM/tree/main/build_inventory)에는 K-FRM에서 사용되는 [**Inventory DB 구축용 프로그램**](https://github.com/floodmodel/K-CDMS/wiki/Inventory-Builder)이 있습니다.
 * K-FRM에서 사용되는 Inventory Data는 [**K-CDMS**](https://github.com/floodmodel/K-CDMS)에서 download 받을 수 있습니다.
-* [**k-frm 폴더**](https://github.com/floodmodel/K-FRM/tree/main/k-frm)는 K-FRM에 대한 QGIS plug-in을 download 받을 수 있습니다.  (최신날짜의 zip을 사용하세요) 
+* [**k-frm 폴더**](https://github.com/floodmodel/K-FRM/tree/main/k-frm)는 K-FRM에 대한 QGIS plug-in을 download 받을 수 있습니다.(최신날짜의 zip을 사용하세요) 
 * QGIS3.10에서 운영되도록 개발되었습니다.
 * [**2022년 KDI 예비타당성조사 수행을 위한 세부지침 수자원부분**](https://github.com/floodmodel/K-FRM/blob/main/Reference/%5B%EB%B3%B4%EA%B3%A0%EC%84%9C%5D%20%EC%98%88%EB%B9%84%ED%83%80%EB%8B%B9%EC%84%B1%EC%A1%B0%EC%82%AC%20%EC%88%98%ED%96%89%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EC%84%B8%EB%B6%80%EC%A7%80%EC%B9%A8%20%EC%88%98%EC%9E%90%EC%9B%90%EB%B6%80%EB%AC%B8%20%EA%B0%9C%EC%A0%95%20%EC%97%B0%EA%B5%AC_%EC%B5%9C%EC%A2%85%EB%B3%B8.pdf) : KDI 지침에 K-FRM 반영 완료
 
