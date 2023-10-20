@@ -25,6 +25,6 @@
 2022.11.09. Metadata에 표시되는 ICON 크기 조정 <br/>
 2022.12.22. Public sector loss UI 및 기능 변경, Annualized loss 기능 추가 <br/>
 2023.02.24. Code Style 
-2023.10.20 PolygonZ 유형 Hazard Data가 입력으로 주어진 경우 발생하던 오류 (List index out of range) 우회해결. Database 관련 처리 코드의 효율성 개선. 잠재적 오류 발생 구간의 회피 및 유지보수성 개선을 위한 Logging 기능 보완
+2023.10.20 PolygonZ 유형 Hazard Data가 입력으로 주어진 경우 사용자에게 정보 제공. Database 관련 처리 코드의 효율성 개선. 잠재적 오류 발생 구간의 회피 및 유지보수성 개선을 위한 Logging 기능 보완
 
 
