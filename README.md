@@ -25,3 +25,4 @@
 2022.11.09. Metadata에 표시되는 ICON 크기 조정 <br/>
 2022.12.22. Public sector loss UI 및 기능 변경, Annualized loss 기능 추가 <br/>
 2023.02.24. Code Style 
+2023.10.20. list index out of range 오류 해결
