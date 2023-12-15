@@ -1,9 +1,9 @@
 <?xml version = '1.0' encoding = 'UTF-8'?>
 <plugins>
- <pyqgis_plugin name="K-FRM" version="1.7.1">
+ <pyqgis_plugin name="K-FRM" version="1.7.2">
   <description>Korean-Flood Risk assessment Model</description>
   <about>K-FRM is a service that analyzes building, vehicle, agricultural, life(population), and infrastructure losses based on inundation map according to flooding scenarios.</about>
-  <version>1.7.1</version>
+  <version>1.7.2</version>
   <qgis_minimum_version>3.0</qgis_minimum_version>
   <homepage>https://github.com/floodmodel/K-FRM/wiki</homepage>
   <file_name>kfrm_tool.zip</file_name>
