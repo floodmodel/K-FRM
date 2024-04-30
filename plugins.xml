@@ -1,14 +1,14 @@
 <?xml version = '1.0' encoding = 'UTF-8'?>
 <plugins>
- <pyqgis_plugin name="K-FRM" version="1.7.5">
+ <pyqgis_plugin name="K-FRM" version="1.7.6">
   <description>Korean-Flood Risk assessment Model</description>
   <about>K-FRM is a service that analyzes building, vehicle, agricultural, life(population), and infrastructure losses based on inundation map according to flooding scenarios.</about>
-  <version>1.7.5</version>
+  <version>1.7.6</version>
   <qgis_minimum_version>3.0</qgis_minimum_version>
   <homepage>https://github.com/floodmodel/K-FRM/wiki</homepage>
   <file_name>kfrm_tool.zip</file_name>
   <author_name>KICT, Hermesys</author_name>
-  <download_url>https://github.com/floodmodel/K-FRM/raw/main/k-frm/kfrm_tool_20240426_2.zip</download_url>
+  <download_url>https://github.com/floodmodel/K-FRM/raw/main/k-frm/kfrm_tool_20240430.zip</download_url>
   <experimental>False</experimental>
   <deprecated>False</deprecated>
   <tags>K-FRM, flood damage, flood loss, inundation, inventory</tags>
