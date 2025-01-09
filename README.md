@@ -7,9 +7,6 @@
 * QGIS3.10에서 운영되도록 개발되었습니다.
 * [**2022년 KDI 예비타당성조사 수행을 위한 세부지침 수자원부분**](https://github.com/floodmodel/K-FRM/blob/main/Reference/%5B%EB%B3%B4%EA%B3%A0%EC%84%9C%5D%20%EC%98%88%EB%B9%84%ED%83%80%EB%8B%B9%EC%84%B1%EC%A1%B0%EC%82%AC%20%EC%88%98%ED%96%89%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EC%84%B8%EB%B6%80%EC%A7%80%EC%B9%A8%20%EC%88%98%EC%9E%90%EC%9B%90%EB%B6%80%EB%AC%B8%20%EA%B0%9C%EC%A0%95%20%EC%97%B0%EA%B5%AC_%EC%B5%9C%EC%A2%85%EB%B3%B8.pdf) : KDI 지침에 K-FRM 반영 완료
 
-<br/>
-
-Plugin repository URL: https://raw.githubusercontent.com/floodmodel/K-FRM/main/plugins.xml
 
 <br/><br/>
 
