@@ -1,5 +1,9 @@
 # K-FRM (pro 버전 .서버 주소 변경. 임시공지)
-* 서버 주소가 2025.2.24 부터 조정되었습니다. 210.92.123.180 아닌 kfrm.hermesys.co.kr 으로 조정하시면 됩니다.
+* 서버 주소가 2025.2.24에 조정되었습니다.
+* 플러그인 버전 1.7.8을 사용해주세요.
+* 또는 플러그인에서 210.92.123.180 아닌 kfrm.hermesys.co.kr 으로 주소를 조정해주세요.
+* 접속이 안되는 경우 PC 또는 network 의 방화벽을 확인해주세요
+
 
 # K-FRM (Korean-Flood Risk assessment Model)
 * K-FRM은 정량적 홍수 위험도 평가(Quantitative Flood Risk Assessment)를 구현하기 위한 프로그램입니다.
