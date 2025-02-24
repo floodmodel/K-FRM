@@ -31,3 +31,4 @@
 2023.10.20. PolygonZ 유형 Hazard Data가 입력으로 주어진 경우 사용자에게 정보 제공. Database 관련 처리 코드의 효율성 개선. 잠재적 오류 발생 구간의 회피 및 유지보수성 개선을 위한 Logging 기능 보완  <br/>
 2024.04.30. Result Table Download 기능 추가 <br/>
 2024.08.16. 사용자별로 Result Table 기본 저장 경로 설정 <br/>
+2025.02.24. Main Geoserver URL 변경 <br/>
