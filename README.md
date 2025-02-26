@@ -37,3 +37,4 @@
 2024.08.16. 사용자별로 Result Table 기본 저장 경로 설정 <br/>
 2025.02.24. Main Geoserver URL 변경 <br/>
 2025.02.25. 오류 분석을 위한 Log 기능 추가 <br/>
+2025.02.26. Geoserver URL 변경 <br/>
