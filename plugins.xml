@@ -1,31 +1,51 @@
-<?xml version = '1.0' encoding = 'UTF-8'?>
+
+<?xml version="1.0" encoding="UTF-8"?>
 <plugins>
- <pyqgis_plugin name="K-FRM" version="1.8.10">
-  <description>Korean-Flood Risk assessment Model</description>
-  <about>K-FRM is a service that analyzes building, vehicle, agricultural, life(population), and infrastructure losses based on inundation map according to flooding scenarios.</about>
-  <version>1.8.10</version>
-  <qgis_minimum_version>3.0</qgis_minimum_version>
-  <homepage>https://github.com/floodmodel/K-FRM/wiki</homepage>
-  <file_name>kfrm_tool.zip</file_name>
-  <author_name>KICT, Hermesys</author_name>
-  <download_url>https://github.com/floodmodel/K-FRM/releases/download/v1.8.10/kfrm_tool.v1.8.10.zip</download_url>
-  <experimental>False</experimental>
-  <deprecated>False</deprecated>
-  <tags>K-FRM, flood damage, flood loss, inundation, inventory</tags>
- </pyqgis_plugin>
+  <!-- K-FRM for QGIS 3 -->
+  <pyqgis_plugin name="K-FRM" version="1.8.10">
+    <description>Korean-Flood Risk assessment Model</description>
+    <about>K-FRM is a service that analyzes building, vehicle, agricultural, life(population), and infrastructure losses based on inundation map according to flooding scenarios.</about>
+    <version>1.8.10</version>
+    <qgis_minimum_version>3.0</qgis_minimum_version>
+    <qgis_maximum_version>3.99</qgis_maximum_version>
+    <homepage>https://github.com/floodmodel/K-FRM/wiki</homepage>
+    <file_name>kfrm_tool.zip</file_name>
+    <author_name>KICT, Hermesys</author_name>
+    <download_url>https://github.com/floodmodel/K-FRM/releases/download/v1.8.10/kfrm_tool.v1.8.10.zip</download_url>
+    <experimental>False</experimental>
+    <deprecated>False</deprecated>
+    <tags>K-FRM, flood damage, flood loss, inundation, inventory</tags>
+  </pyqgis_plugin>
 
- <pyqgis_plugin name="Build inventory tool" version="0.1">
-  <description>Build inventory tool</description>
-  <about></about>
-  <version>0.1</version>
-  <qgis_minimum_version>3.0</qgis_minimum_version>
-  <homepage>https://github.com/floodmodel/K-FRM</homepage>
-  <file_name>build_inventory_tool.zip</file_name>
-  <author_name>KICT, Hermesys</author_name>
-  <download_url>https://github.com/floodmodel/K-FRM/raw/main/build_inventory/build_inventory_tool_20210825.zip</download_url>
-  <experimental>True</experimental>
-  <deprecated>False</deprecated>
-  <tags>Build inventory tool</tags>
- </pyqgis_plugin>
+  <!-- K-FRM for QGIS 4 -->
+  <pyqgis_plugin name="K-FRM" version="2.0.1">
+    <description>Korean-Flood Risk assessment Model</description>
+    <about>K-FRM 2.0.1 for QGIS 4, based on Qt 6.</about>
+    <version>2.0.1</version>
+    <qgis_minimum_version>4.0</qgis_minimum_version>
+    <qgis_maximum_version>4.99</qgis_maximum_version>
+    <homepage>https://github.com/floodmodel/K-FRM/wiki</homepage>
+    <file_name>kfrm_tool.zip</file_name>
+    <author_name>KICT, Hermesys</author_name>
+    <download_url>https://github.com/floodmodel/K-FRM/releases/download/v2.0.1/kfrm_tool.v2.0.1.zip</download_url>
+    <experimental>False</experimental>
+    <deprecated>False</deprecated>
+    <tags>K-FRM, flood damage, flood loss, inundation, inventory</tags>
+  </pyqgis_plugin>
 
+  <!-- Build inventory tool -->
+  <pyqgis_plugin name="Build inventory tool" version="0.1">
+    <description>Build inventory tool</description>
+    <about></about>
+    <version>0.1</version>
+    <qgis_minimum_version>3.0</qgis_minimum_version>
+    <qgis_maximum_version>3.99</qgis_maximum_version>
+    <homepage>https://github.com/floodmodel/K-FRM</homepage>
+    <file_name>build_inventory_tool.zip</file_name>
+    <author_name>KICT, Hermesys</author_name>
+    <download_url>https://github.com/floodmodel/K-FRM/raw/main/build_inventory/build_inventory_tool_20210825.zip</download_url>
+    <experimental>True</experimental>
+    <deprecated>False</deprecated>
+    <tags>Build inventory tool</tags>
+  </pyqgis_plugin>
 </plugins>
